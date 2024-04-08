@@ -1,3 +1,22 @@
+# Documentação
+
+### Como rodar esse projeto
+
+Os pré-requisitos para executar este projeto consiste em ter instalado em sua máquina (de preferência linux ou WSL2) PHP, Composer, Docker, docker-compose e Laravel Sail.
+
+No terminal:
+
+```bash
+$ git clone git@github.com:gmdias727/silver-computing-machine.git
+
+cd silver-computing-machine
+
+# Abra com seu editor de preferência
+code . # no meu caso vscode
+
+./vendor/bin/sail up
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
