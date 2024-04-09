@@ -1,5 +1,4 @@
 # Documentação
-
 ### Como rodar esse projeto
 
 Os pré-requisitos para executar este projeto consiste em ter instalado em sua máquina (de preferência linux ou WSL2) PHP, Composer, Docker, docker-compose e Laravel Sail.
